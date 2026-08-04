@@ -1,0 +1,52 @@
+[
+    {
+        "student_id": "STU-0001",
+        "name": "Aarav Sharma",
+        "age": 20,
+        "gender": "Male",
+        "department": "Computer Science",
+        "year_of_study": 2,
+        "email": "aarav.sharma@example.com",
+        "phone": "+919876543210"
+    },
+    {
+        "student_id": "STU-0002",
+        "name": "Priya Patel",
+        "age": 21,
+        "gender": "Female",
+        "department": "Electronics",
+        "year_of_study": 3,
+        "email": "priya.patel@example.com",
+        "phone": "+919123456789"
+    },
+    {
+        "student_id": "STU-0003",
+        "name": "Rohan Mehta",
+        "age": 19,
+        "gender": "Male",
+        "department": "Mechanical",
+        "year_of_study": 1,
+        "email": "rohan.mehta@example.com",
+        "phone": "+918765432109"
+    },
+    {
+        "student_id": "STU-0004",
+        "name": "Sneha Reddy",
+        "age": 22,
+        "gender": "Female",
+        "department": "Civil Engineering",
+        "year_of_study": 4,
+        "email": "sneha.reddy@example.com",
+        "phone": "+917654321098"
+    },
+    {
+        "student_id": "STU-0005",
+        "name": "Vikram Singh",
+        "age": 20,
+        "gender": "Male",
+        "department": "Information Technology",
+        "year_of_study": 2,
+        "email": "vikram.singh@example.com",
+        "phone": "+916543210987"
+    }
+]
